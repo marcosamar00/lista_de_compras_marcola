@@ -1,0 +1,3 @@
+url: https://hzxlcmqbbsntoaopdvzb.supabase.co
+
+key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh6eGxjbXFiYnNudG9hb3BkdnpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY1MzU1MDAsImV4cCI6MjA2MjExMTUwMH0.1ETknQzoodZ0QoOIJ4WJARfD2OnTiCF3ZmaDVlGNa9g
