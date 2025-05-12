@@ -11,7 +11,7 @@ window.login = async function () {
     alert('Erro no login: ' + error.message)
   } else {
     // Redireciona para página principal
-    window.location.href = 'index.html'
+    window.location.href = 'login.html'
   }
 }
 
