@@ -62,7 +62,7 @@ window.logout = async function () {
 getUser().then(carregarLista)
 
 //enter funciona para add item
-document.addEventListener('keydown'), function (event) {
+document.addEventListener('keydown', function (event) {
   if (event.key === 'Enter') {
       adicionarItem()
   }
