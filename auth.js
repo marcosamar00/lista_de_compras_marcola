@@ -35,6 +35,5 @@ document.addEventListener('keydown'), function (event) {
       login()
     } else if (caminho.includes('login'))
       cadastro()
-
   } 
 }
