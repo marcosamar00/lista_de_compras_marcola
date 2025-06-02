@@ -11,7 +11,7 @@ window.login = async function () {
     alert('Erro no login: ' + error.message)
   } else {
     // Redireciona para página principal
-    window.location.href = 'login.html'
+    window.location.href = 'index.html'
   }
 }
 
@@ -28,12 +28,13 @@ window.cadastro = async function () {
   }
 }
 
-document.addEventListener('keydown'), function (event) {
+document.addEventListener('keydown', function (event) {
   if (event.key === 'Enter') {
-    const caminho = windows.location.pathname
+    const caminho = window.location.pathname
     if (caminho.includes('login')) {
       login()
-    } else if (caminho.includes('login'))
+    } else if (caminho.includes('cadastro')) {
       cadastro()
-  } 
-}
+    }
+  }
+})
