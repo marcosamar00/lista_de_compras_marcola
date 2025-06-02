@@ -29,7 +29,7 @@
 body {
     font-family: var(--fonte);
     background: #2A7B9B;
-    background: linear-gradient(90deg, rgb(51, 52, 70) 0%, rgb(127, 140, 170) 80%, rgb(234, 239, 239) 100%);
+    background: linear-gradient(90deg, rgb(3, 3, 3) 0%, rgb(18, 52, 88) 80%, rgb(212, 201, 190) 100%);
     display: flex;
 justify-content: center;
 align-items: center;
