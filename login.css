@@ -46,7 +46,14 @@ padding: 20px;
  text-align: center;
 }
 
-/**logo\
+/*-------logo-----------*/
+
+#logo {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: var(--raio);
+}
 
 .titulo{
     font-size: clamp(1.5rem, 2vw + 1 rem, 2rem);
