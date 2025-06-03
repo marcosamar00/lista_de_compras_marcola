@@ -46,6 +46,7 @@ padding: 20px;
  text-align: center;
 }
 
+/**logo\
 
 .titulo{
     font-size: clamp(1.5rem, 2vw + 1 rem, 2rem);
